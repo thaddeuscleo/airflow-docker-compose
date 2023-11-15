@@ -16,8 +16,8 @@ To set up the Airflow environment, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/thaddeuscleo/airflow-docker-compose.git
+    cd airflow-docker-compose
     ```
 
 2. **Initialize Airflow:**
